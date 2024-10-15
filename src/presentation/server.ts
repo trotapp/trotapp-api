@@ -1,5 +1,4 @@
 import express, { Router } from 'express';
-
 import cors from 'cors';
 import fileUpload from 'express-fileupload';
 import path from 'path';
